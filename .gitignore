@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Phrases/*
+!/Phrases/task/
+/Phrases/task/*
+!/Phrases/task/src
